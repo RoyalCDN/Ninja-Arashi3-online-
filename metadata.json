@@ -1,0 +1,6 @@
+{
+  "name": "Ninja Areahi 3 Online",
+  "description": "Atmospheric 2D side-scrolling dark fantasy ninja action platformer with fluid combat, parallax worlds, and multiplayer modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
